@@ -46,6 +46,8 @@ Initial data was fed to Airtable using this [script here](https://gist.github.co
 ## D - F
 - [Daanfe Inc Pvt. Ltd.](http://www.daanfe.com/) | Sankhamul Road, Kathmandu | Wings For Ideas
 - [Deerwalk](http://www.deerwalk.com/) | Sifal, Kathmandu | Bringing you software solutions for POPULATION HEALTH MANAGEMENT
+- [Divya Tech Pvt. Ltd](http://www.divyat.com/) | Teku, Kathmandu | DIVYA TECHNOLOGIES An IT Hub for Business Solution
+We believe in quality and services.
 - [EB Pearls](https://www.ebpearls.com.au/) | Kupondole, Lalitpur | Digital agency for web design, ecommerce and mobile app development
 - [Eepos IT Services](http://www.eeposit.com/) | Old Baneshwor, Kathmandu | We are a full service mobile application, web, and custom software development company
 - [ESignature Pvt. Ltd.](http://esignature.com.np/) | Gyaneshwor, Kathmandu | Web-based solutions, web development, software solutions and IT service provider
